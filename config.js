@@ -12,8 +12,8 @@ global.OwnerNumber = ['919153043616']
 global.ownertag = ['919153043616']
 global.BotName = "noora❤️"
 global.packname = "Noora bot"
-global.author = "By: mishab❤️"
-global.OwnerName = "mishab"
+global.author = "By: Ayan❤️"
+global.OwnerName = ""
 global.BotSourceCode = "https://github.com/Pika4O4/Anya-pika"
 global.SupportGroupLink = "https://chat.whatsapp.com/H6CUtq40oRDKIofIEbf1qEl"
 global.sessionName = "session"
@@ -23,7 +23,7 @@ global.sessionName = "session"
 global.prefa = ['-'] 
 
 
-global.location = "Assam, India"
+global.location = "Ranchi, India"
 global.reactmoji = "❤️"
 global.themeemoji = "💖"
 global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
